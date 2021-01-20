@@ -17,7 +17,7 @@
   This project is run in Node.js. To install, download the files from the repository and run "npm i" from the command line to install the dependencies.
   ![Screenshot](./assets/screenshot.png)
   <br>
-  **[Click here to Watch an Instructional Video](./assets/readme-vid.webm)**
+  **[Click here to Watch an Instructional Video](https://drive.google.com/file/d/12Whn4zdsREAuz4y7mb4hWws7HGc8R15P/view?usp=sharing)**
   # Contribution Guidelines
   To contribute to this package, please contact me on GitHub.
   # Testing Information
